@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ibrahem</h1>
 <h3 align="center">I'm a MTIS student BIS department I'm training to be a web developer</h3>
 
-- 🔭 I’m currently working on **portfolio project**
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **ahmedalfar945@gmail.com**
